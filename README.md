@@ -1,4 +1,4 @@
-# PostGres normalized and ready-to-use tables of Countries, Regions (Provinces/States), Cities
+# PostgreSQL normalized and ready-to-use tables of Countries, Regions (Provinces/States), Cities
 
 ## Installation
 
